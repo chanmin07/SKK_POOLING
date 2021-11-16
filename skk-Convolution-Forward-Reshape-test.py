@@ -28,3 +28,7 @@ print("-------------------------------------------------")
 #out=out.reshape(4,4,-1).transpose(2,0,1)
 out=out.reshape(2,4,4,-1).transpose(0,3,1,2)
 print(out)
+#qqqqqqqqqqqq
+#qqqqqqqqqqqq
+#qqqqqqqqqqqqqq
+#qqqqqqqqqqqqqq

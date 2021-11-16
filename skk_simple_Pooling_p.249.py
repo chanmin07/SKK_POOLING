@@ -25,3 +25,7 @@ out=np.max(col,axis=1)
 print(out)
 out=out.reshape(N, out_h,out_w,C).transpose(0,3,1,2)
 print(out)
+#qqqqqqqqqqqq
+#qqqqqqqqqqqq
+#qqqqqqqqqqqqqq
+#qqqqqqqqqqqqqq

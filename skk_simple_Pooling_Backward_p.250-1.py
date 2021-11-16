@@ -68,5 +68,8 @@ print(dcol)
 dx = col2im(dcol, x.shape, pool_h, pool_w, stride, pad)
 print(dx)
 print(dx.shape)
-  
+  #qqqqqqqqqqqq
+#qqqqqqqqqqqq
+#qqqqqqqqqqqqqq
+#qqqqqqqqqqqqqq
 
